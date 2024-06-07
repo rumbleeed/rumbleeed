@@ -1,4 +1,4 @@
 Hey! My name is Nikolay.
-I am a mini coder on python, javascript, html+css. 
-I am the head of the b12 project and a technical support of the hachclient .
+I am a web and minecraft developer (coder-paster?)
+I am the tech admin and co-owner of SkyHaven server and manager of hachclient.fun
 Follow the links and subscribe! 
